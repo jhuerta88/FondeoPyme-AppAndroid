@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d72b4</color>
+    <color name="colorPrimaryDark">#0288FC</color>
+    <color name="colorAccent">#009bdd</color>
+
+    <color name="medium_blue">#2d72b4</color>
+    <color name="darkish_blue">#002b85</color>
+    <color name="cerulean">#009bdd</color>
+
+    <color name="texto">#deffffff</color>
+    <color name="white_60">#99ffffff</color>
+    <color name="white_87">#deffffff</color>
+    <color name="white">#ffffff</color>
+
+</resources>

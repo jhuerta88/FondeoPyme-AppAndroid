@@ -1,0 +1,38 @@
+<resources>
+    <!-- Aplicación -->
+    <string name="app_name">Fondeo Pyme</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="reintentar">Reintentar</string>
+
+    <!-- Alertas y mensajes -->
+    <string name="sin_internet">No tiene una conexión a Internet activa</string>
+    <string name="datos_sesion_incorrectos">Datos de sesión incorrectos</string>
+    <string name="respuesta_vacia">Respuesta vacía</string>
+    <string name="error_web">Lo sentimos. No se pudo establecer conexión con el servidor</string>
+    <string name="validando_sesion">Validando sesión</string>
+    <string name="cerrando_sesion">Cerrando sesión</string>
+    <string name="cargando">Cargando</string>
+    <string name="titulo_alerta">Lo sentimos</string>
+
+    <!-- Errores de certificado -->
+    <string name="notification_error_ssl_date_invalid">Fecha del certificado de seguridad inválida</string>
+    <string name="notification_error_ssl_expired">El certificado ha expirado</string>
+    <string name="notification_error_ssl_idmismatch">El certificado no coincide con el host</string>
+    <string name="notification_error_ssl_invalid">La conexión SSL es inválida</string>
+    <string name="notification_error_ssl_not_yet_valid">El certificado aún no es válido</string>
+    <string name="notification_error_ssl_untrusted">El certificado no es de confianza</string>
+    <string name="notification_error_ssl_cert_invalid">El certificado es in válido.</string>
+
+    <!-- Login -->
+    <string name="txt_url_dominio">Dominio</string>
+    <string name="txt_url_empresa">Ejemplo: tuempresa.fondeopyme.com</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contra">Contraseña</string>
+    <string name="btn_inicio_sesion">Inicio de sesión</string>
+    <string name="txt_dominio">.fondeopyme.com</string>
+
+</resources>
+
